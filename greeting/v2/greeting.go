@@ -1,6 +1,5 @@
 package greeting
 
-
 func Get() string {
-    return "Hello form version v2!"
+	return "Hello form version v2!"
 }
