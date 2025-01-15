@@ -1,4 +1,4 @@
-module github.com/Rudich1988/hexlet-go
+module github.com/Rudich1988/hexlet-go/v3
 
 go 1.23.4
 
